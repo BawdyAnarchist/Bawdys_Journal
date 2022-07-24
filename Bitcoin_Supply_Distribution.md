@@ -1,5 +1,3 @@
-Bitcoin Supply Distribution - A Basic Analysis
-
 Egalitarian competion for creation of new blocks (mining), was a crucial design parameter for Bitcoin, as a monetary protocol. Most importantly - it secures censorship resistance by decentralizing the authority to update the ledger, and the minting of new supply (inflation).
 
 The notion of fair play intuits that an open networking protocol aiming to achieve transnational monetary properties, ought to minimize barriers to participation in the minting of new supply.
@@ -14,7 +12,7 @@ By comparison, 32% of US wealth is held by 1% of the population. So at first gla
 
 Now because the situation appears so lopsided, I will err on the side of making the maximum adjustment possible. We will give all benefit of the doubt, and make the best possible case for maximum distribution of coin. 
 
-1. Crypto exchanges hold BTC in custody; and a single address (UTXO) can represent millions of customers. So we'll subtract [all exchange-held BTC](https://cryptoquant.com/asset/btc/chart/exchange-flows/exchange-reserve?exchange=all_exchange&window=DAY&sma=0&ema=0&priceScale=linear&metricScale=linear&chartStyle=line) from the calculation. Currently: **2.3M BTC**]     
+1. Crypto exchanges hold BTC in custody; and a single address (UTXO) can represent millions of customers. So we'll subtract [all exchange-held BTC](https://cryptoquant.com/asset/btc/chart/exchange-flows/exchange-reserve?exchange=all_exchange&window=DAY&sma=0&ema=0&priceScale=linear&metricScale=linear&chartStyle=line) from the calculation. Currently: **2.3M BTC**     
 - Of course this is an over-adjustement. Market makers and hedge funds keep large amounts on exchanges, but again, we're confering all possible benefit of the doubt.
 
 2. Lost Bitcoin should be subtracted as well. [The estimate by Chainalysis](https://blog.chainalysis.com/reports/money-supply/) is between **2.8** and **3.7M**. This includes coin which has never moved (including Satoshi's coin), among other criteria. And again, confering most benefit of the doubt, we'll assum that all lost coin come only from the rich list.
@@ -31,7 +29,7 @@ Math time:
 
 1.8% (UTXOs remaining after after removing lost coin) ÷ 2 (UTXOs per person) = 0.9%
 
-**RESULTS:&nbps;  0.9% of persons control about 63% of the supply**. 
+**RESULTS:&nbsp;  0.9% of persons control about 63% of the supply**. 
 
 Again, this is the absolute best possible case. The actual concentration of wealth is likely significnatly higher. So empirically, we can say that the design implementation was successful in achieving moderately high levels of censorship resistance thus far; but has resulted in a highly concentrated distribution of supply. 
 
