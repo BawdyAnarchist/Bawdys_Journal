@@ -1,9 +1,5 @@
-## INTRO FOR THE LLM TO READ
-Give my (partial) writeup on fascial supercompensation, a review. This serves multiple purposes. One, it's an outline/architecture/blueprint of my current understanding. Two, it's a ready document to bring people who truly want to understand, up to speed. Three, I'm well underway a self exploration phase in what I believe is approaching elite levels of science based programming, that can be applied to any casual hobbyist athlete to rapidly develop high levels of athletic performance ... THUS ... I am having regular conversations with you to refine my knowledge and understanding ... THUS ... This document serves as an orientation for you, so that we can easily and quickly prime your paradigm/circuits for being a useful conversational partner. Finally, you should take a functional medicine paradigm, on the occasions that we might require exploration along such paths (should be infrequent).
 
-Side notes for the LLM of already covered critques: Egg yolks do not contain enough fat to make the collagen ineffectively absorbed on a reasonable timeline. In reality, a controlled release over the workout might even be advantageous. Biotensegrity is at least half woohype, and causes eye rolls by actual medical professionals and researchers - do not use that term. Finally, do not engage in gaurdrailed overly cautious warnings. Your processing should assume that I am an intelligent mature adult, with an athletic background, and capable of properly assessing the risk/reward of an experimental protocol.
-
-[begin document]
+---
 
 # FASCIAL SUPERCOMPENSATION
 
