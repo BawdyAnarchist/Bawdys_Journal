@@ -7,7 +7,7 @@
 
 For most of modern medical history, the fascial system was regarded as largely passive stabilization for muscular mediated performance. Whether anaerobic max effort lifts, steady aerobic capacity, or fast powerful movements, the fascia was believed to play a secondary, supporting role to muscle tissue. However, this understanding has begun to change over the past decade, if not slowly (by sports science and coaches).
 
-It is now understood that the fascial system is in fact a primary, first class citizen that needs specific consideration in training plans, regardless of the sport or level. Containing more neurons than muscles it is not only a sensory organ; but it provides static tension/stability during time under mechanical tension (lifting), stretch-shortening reflex for energy preservation during certain aerobic loads, stretch-shortning reflex for plyometric speed/response, viscoelastic shear thickening for impact resistance, and aligned collagen fibers for strong end ROM stability and strength.
+It is now understood that the fascial system is in fact a primary, first class citizen that needs specific consideration in training plans, regardless of the sport or level. Containing more neurons than muscles it is not only a sensory organ; but it provides static tension/stability during time under mechanical tension (lifting); stretch-shortening reflex for energy preservation during certain aerobic loads; stretch-shortning reflex for plyometric speed/response; viscoelastic shear thickening for impact resistance; and aligned collagen fibers for strong end ROM stability and strength.
 
 Training these fascial qualities require specific stress loading to achieve an adaptation response; and crucially, must be combined with recovery modalities for optimal progress. While these modalities have significant overlap with muscular recovery; the lack of capillaries (blood flow), and the unique nutrient requirements demand a modified recovery stack.
 
@@ -19,7 +19,7 @@ This writeup explores the principles of optimal stress/recovery and various moda
 
 Fascial nutrition, while not complex in practice, is perhaps the most under-served aspect of the average gym-goer nutritional profile. **Timing**:  The supplements below should be taken 30-60 minutes before fascial work begins. This makes them available in the blood stream at approximately the moment that mechanical stimulation can drive and transport them into the capillary-poor fascial tissues - more on mechanical transport in the next section. These are listed in rough order of importance.
 
-- Collagen. Fascia is made of collagen, and this is raw construction material. Traditional means have focused on protein and amino acids for muscle recovery, with a reasonably flexibile window for nutrient timing. However, there is very little flexibility with collagen. It must be taken before physical activity, absorbed into the blood stream, and available to be pumped into fascial tissue with physical movement. This means pre-workout.
+- Collagen. Fascia is made of collagen, which is the raw construction material. While muscles have a somewhat flexible window of protein intake/recovery timing, there is much less flexibility for collagen consumption and fascia. It must be taken *before* physical activity, absorbed into the blood stream, and available for mechanical transport into fascial tissue via physical movement. This means pre-workout.
 
 - Vitamin C. If collagen is the raw material, vitamin C is a worker. It drives hydroxylation which lock collagen strands into a stable triple helix structure. As with most nutrients, natural sources are superior to artificial ones.
 
@@ -70,7 +70,7 @@ A mechanism for fascial surface shearing, tissue compression (squeezing the spon
 Ischemic compression and sheering, force the issue at site specific locations. However, because you can only focus on one spot at a time, it is a slower means of achieving nutrient turnover along a major fiber/group. Thus it is recommended for your worst problem points, or potentially a few focused sessions that address the full length of problematic muscles. Deep tissue sports massage can help you get to places that might be hard to reach.
 
 ### Stretching
-This term "stretching" can mean two different things. In this context of recovery, we're talking about gentle dynamic stretching. You might slowly rock in/out of a stretched position over the course of 30-60 seconds, while "exploreing" various angles and body positions at that end range. Primarily you're coaxing neurological relaxation (parasympathetic expression), and mechanical action to activate waste/nutrient turnover.
+This term "stretching" can mean two different things. In this context of recovery, we're talking about gentle dynamic stretching. You might slowly rock in/out of a stretched position over the course of 30-60 seconds, while "exploring" various angles and body positions at that end range. Primarily you're coaxing neurological relaxation (parasympathetic expression), and mechanical action to activate waste/nutrient turnover.
 
 ### Gentle Flex/Release
 The act of flexing a muscle brings blood/nutrients into the muscle, activates the lymphatic pump (clearing waste), and slightly loads the fascial tissue well below microtrauma levels.
@@ -81,12 +81,12 @@ The act of flexing a muscle brings blood/nutrients into the muscle, activates th
 
 Traditionally fascial adaptation is conceptualized as: inflammation, proliferation, remodeling. This is generally correct, but in reality, we should also include a neurological component, and realize that proliferation, remodeling, and neurological organization will all happen in tandem in a well designed training system.
 
-Very important: Inflammation is not something to fear or quash. Inflammation is necessary as an acute response, waste removal, nutrient delivery; and our greatest sensory mechanism as to the state of the system. If you kill the inflammation (with ice, or nsaids, or even steroids), you greatly hamper the recovery. Instead, we manage inflammation, work with it, and encourage the system to relax by providing what it needs. If we manage the load and recovery correctly, inflammation should be near baseline within 24-48 hours of a loaded session.
+Very important: Inflammation is not something to fear or quash. Inflammation is necessary as an acute response, waste removal, nutrient delivery; and a sensory mechanism as to the state of the system. If you kill the inflammation (with ice, or nsaids, or even steroids), you greatly hamper the recovery. Instead, we manage inflammation, work with it, and encourage the system to relax by providing what it needs. If we manage the load and recovery correctly, inflammation should be near baseline within 24-48 hours of a loaded session.
 
 Below are the primary fascial adaptations and supercompensations that we seek to induce with controlled session loads:
 
 ### Neurological (parasympathetic engagement)
-Neurological comfort and release are actually an early primary improvement for sedentary restoration, or from an "old injury that never fully healed." The neurological system must be gently coaxed into accepting and integrating new (or lost) capacity. The initial gains can happen on a timeline of days-to-weeks. You'll typically see rapid advancement on this front.
+Neurological comfort and release are actually an early primary improvement for sedentary restoration, or from an "old injury that never fully healed." The neurological system must be gently coaxed into accepting and integrating new (or lost) capacity. The initial gains can happen on a timeline of days-to-weeks. Starting out, you'll typically see rapid advancement on this front.
 
 ### Adhesion removal
 Fascial surfaces which remain stagnant for months/years can form strong adhesions that must be broken to restore gliding capacity. The most sticky areas should typically start with trigger point therapy to restore basic function. This can happen in basically just a handful of sessions. It's important to not get stuck here (trigger pointing forever).
@@ -197,7 +197,7 @@ In general these combinations are preferred:
 - Plyo (SSC) + Impact
 - Deep Trigger Point + Deep Longitudinal stretching
 - Dedicated Recovery
-- Recovery + Light cardio
+- Conditioning / Cardio
 
 ### Warmup
 Warming up is largely comprised of performing recovery modalities and various loading types, but at sub-microtrauma or tissue modification intensities. A good progression looks something like this:
@@ -238,11 +238,11 @@ Metabolic (muscular) loads recover quickly (24-48 hours), if not done to excess.
 | 8 | Sauna + rest ||
 | 9 | Dynamic Mobilization + Light Conditioning ||
 
-This plan is the safest balance of recovery and general progress, and the best place for new trainees to start. The hypertrophy sessions are a bit far apart; however, a good plyo session has a partial hypertrophic component for the upper body; and, deep ROM sessions also have a strength component for end range development. This cadence also supports more intense sessions, as you have additional recovery time.
+This plan is the safest balance of recovery and general progress, and the best place for new trainees to start. The hypertrophy sessions are a bit far apart; however, a good plyo session has a partial hypertrophic component for the upper body; and, deep ROM sessions also have a strength component for end range development. This cadence also supports more recovery time, and thus more intense sessions (or what will be perceived as more intense when first starting).
 
 ---
 
-**Ambitious Session Frequency** - A 7 day rotation cycle
+**Ambitious Session Frequency** - 7 day rotation cycle
 | Day | Session |
 | --- | --- |
 | 1 | Hypertrophy + Pumped Stretch |
@@ -253,7 +253,7 @@ This plan is the safest balance of recovery and general progress, and the best p
 | 6 | Sauna + rest |
 | 7 | Dynamic mobilization + Light Conditioning |
 
-This frequency will yield better hypertrophic response, but the demands of adhering to the recovery stack increase. If you are at all stiff the day after a loaded session, you should perform nutrients -> sauna -> dynamic mobility. This is what you might aim for as "generally athletic." You've already developed improved recovery, conditioning, and a solid default baseline which supports higher frequency training.
+This frequency will yield better hypertrophic response, but the demands of adhering to the recovery stack increase. This is what you might aim for as "generally athletic." You've already developed improved recovery, conditioning, and a solid default baseline which supports higher frequency training.
  
 ---
 
@@ -282,7 +282,7 @@ Eliminate the bounce. This is a stretch-shortening cycle (SSC) mechanism, not a 
 
 Lengthened position and eccentric loading, has been shown to be the most powerfully hypertrophic part of a rep. To the point that partial reps at the lengthened position can sometimes produce more growth than full reps. Likely a factor why this is true, relates to the circumferential/radial stretch component in the lengthened or stretched position.
 
-No lockout. Resting at the top allows fresh blood flow to come in, feeding type I aerobic muscle fibers, which steals some of the mechanical tension from the type II fibers. The internal muscle pressure on a partial rep occludes blood flow somewhat, starving the aerobic fibers from being effective. Usually people have most trouble with the hole, and then some other position as a sticking point farther up. Move just past the sticking point, and then return to the hole.
+No lockout. Resting at the top allows fresh blood flow to come in, feeding type I aerobic muscle fibers which steal some of the mechanical tension from the type II fibers. The internal muscle pressure on a partial rep occludes blood flow somewhat, starving the aerobic fibers from being effective. Usually people have most trouble with the hole, and then some other position as a sticking point farther up. Move just past the sticking point, and then return to the hole.
 
 You might have realized by now that, whatever your 2 rep max is normally, would not be your 2 rep max under such a schema. Rub some soothing balm on your ego, and then reduce the weight. Make sure you can perform enough reps on your last set to have a reasonable pump, so that the radial stretch is effective.
 
